@@ -17,9 +17,11 @@ Table of Contents
 -Key Insights
 
 
+
 1. Overview
 
 This project analyzes a diamond pricing dataset to uncover patterns and insights. Various factors like carat weight, cut, clarity, and color were examined to determine their influence on price.
+
 
 2. Technologies Used
 
@@ -27,11 +29,13 @@ Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Tools: Jupyter Notebook
 
+
 3. Dataset
 
 Source: [Kaggle]
 Size: [53940, 11]
 Key Columns: Carat, Cut, Clarity, Price
+
 
 4. Key Insights
 
