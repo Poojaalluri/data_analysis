@@ -9,8 +9,11 @@ A data analysis project exploring factors affecting diamond prices to provide in
 Table of Contents
 
 -Overview
+
 -Technologies Used
+
 -Dataset
+
 -Key Insights
 
 
@@ -25,6 +28,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Tools: Jupyter Notebook
 
 3. Dataset
+
 Source: [Kaggle]
 Size: [53940, 11]
 Key Columns: Carat, Cut, Clarity, Price
