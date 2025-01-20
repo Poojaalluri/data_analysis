@@ -7,13 +7,16 @@ Diamond Price Analysis
 A data analysis project exploring factors affecting diamond prices to provide insights into pricing strategies.
 
 Table of Contents
+
 Overview
 Technologies Used
 Dataset
 Key Insights
 Setup Instructions
 Future Enhancements
+
 Overview
+
 This project analyzes a diamond pricing dataset to uncover patterns and insights. Various factors like carat weight, cut, clarity, and color were examined to determine their influence on price.
 
 Technologies Used
