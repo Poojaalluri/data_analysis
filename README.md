@@ -2,11 +2,11 @@
 Analyzed factors influencing diamond prices using Python and Jupyter Notebook. Cleaned and visualized the dataset with Pandas, Matplotlib, and Seaborn to uncover relationships between attributes like carat, cut, and clarity. Provided insights for better pricing strategies.
 
 
-Diamond Price Analysis
+#Diamond Price Analysis
 
 A data analysis project exploring factors affecting diamond prices to provide insights into pricing strategies.
 
-Table of Contents
+##Table of Contents
 
 -Overview
 
@@ -36,7 +36,9 @@ Tools: Jupyter Notebook
 3. Dataset
 
 Source: [Kaggle]
+
 Size: [53940, 11]
+
 Key Columns: Carat, Cut, Clarity, Price
 
 
