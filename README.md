@@ -19,13 +19,13 @@ A data analysis project exploring factors affecting diamond prices to provide in
 
 
 
-### 1. Overview
+### Overview
 
 This project analyzes a diamond pricing dataset to uncover patterns and insights. Various factors like carat weight, cut, clarity, and color were examined to determine their influence on price.
 
 
 
-### 2. Technologies Used
+### Technologies Used
 
 Languages: Python
 
@@ -35,19 +35,19 @@ Tools: Jupyter Notebook
 
 
 
-### 3. Dataset
+### Dataset
 
 Source: [Kaggle]
 
 Size: [53940, 11]
 
-### Key Columns: 
+#### Key Columns: 
 
 Carat, Cut, Clarity, Price
 
 
 
-### 4. Key Insights
+### Key Insights
 
 Higher carat diamonds are generally more expensive, but price trends also depend on clarity and cut.
 Premium and Ideal cut diamonds have higher average prices.
