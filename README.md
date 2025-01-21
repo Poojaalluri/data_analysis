@@ -28,7 +28,9 @@ This project analyzes a diamond pricing dataset to uncover patterns and insights
 ### 2. Technologies Used
 
 Languages: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Tools: Jupyter Notebook
 
 
